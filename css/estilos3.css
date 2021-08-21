@@ -1,0 +1,23 @@
+body{background-color:#000;
+}
+
+p{
+	color:#FFF;
+}
+.t1{
+	color:red;
+	font-family:"Times New Roman", Times, serif
+}
+.t2{
+	color:#666;
+	font-size:12px
+}
+p{background-color:#666;
+margin-right:90px;
+margin-left:90px;
+}
+a{color:#CCC
+}
+a{font-size:24px;
+}
+

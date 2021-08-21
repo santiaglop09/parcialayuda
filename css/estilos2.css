@@ -1,0 +1,24 @@
+body{background-color:#00F;
+}
+
+p{
+	color:black;
+}
+.t1{
+	color:red;
+	font-size:24px
+}
+.t2{
+	color:#3C0;
+	font-size:13px
+}
+p{background-color:#09F;
+margin-right:90px;
+margin-left:90px;
+}
+p{font-family:"Comic Sans MS", cursive
+}
+a{color:#CCC
+}
+a{font-size:24px;
+}
